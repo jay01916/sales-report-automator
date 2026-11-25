@@ -1,0 +1,411 @@
+Date,Product,Region,Quantity,Unit Price
+2025-01-13, Laptop , East ,4.0,55000.0
+2025-02-22, Phone ,north,7.0,22000.0
+2025-02-17,Laptop,South,1.0,57750.0
+2025-10-07,phone,South,8.0,23100.0
+2025-01-04,Headphones,WEST,6.0,2500.0
+2025-04-21,phone,north,2.0,19800.0
+2025-07-03,laptop, East ,1.0,49500.0
+2025-03-05,keyboard,north,5.0,1575.0
+2025-10-23,Headphones,north,1.0,2500.0
+2025-02-10,Headphones,north,7.0,2500.0
+2025-11-22,monitor,South,6.0,12000.0
+2025-05-17, Phone ,north,3.0,23100.0
+2025-03-25,phone,WEST,5.0,23100.0
+2025-06-16,Phone,South,1.0,22000.0
+2025-05-18,Monitor,South,6.0,12000.0
+2025-07-22, Monitor ,WEST,3.0,12000.0
+2025-05-07, Phone , East ,7.0,23100.0
+2025-07-05,Monitor,South,8.0,12000.0
+2025-02-26,Laptop,South,7.0,57750.0
+2025-07-17,laptop,WEST,5.0,57750.0
+2025-02-28, Laptop , East ,6.0,55000.0
+2025-08-11,Headphones,WEST,1.0,2500.0
+2025-04-02, Keyboard ,north,5.0,1575.0
+2025-04-12,Keyboard, East ,3.0,1575.0
+2025-01-01, Keyboard , East ,8.0,1500.0
+2025-07-05,laptop,South,1.0,55000.0
+2025-02-10,Keyboard,WEST,2.0,1575.0
+2025-03-07, Phone ,WEST,3.0,22000.0
+2025-11-07,keyboard,South,4.0,1500.0
+2025-07-11,monitor,WEST,,12000.0
+2025-02-02,phone,north,4.0,23100.0
+2025-01-04,Phone,north,4.0,22000.0
+2025-06-19,Laptop,South,5.0,49500.0
+2025-10-04,Phone,WEST,4.0,19800.0
+2025-04-08,Monitor,north,7.0,12000.0
+2025-07-30,monitor,north,2.0,12000.0
+2025-06-23,Monitor,South,4.0,12000.0
+2025-08-18,Keyboard,WEST,3.0,1500.0
+2025-05-08,Monitor,WEST,2.0,12000.0
+2025-01-08,Keyboard,South,3.0,1350.0
+2025-09-04,Monitor,WEST,1.0,12000.0
+2025-01-02,monitor, East ,8.0,12000.0
+2025-10-12, Monitor ,WEST,3.0,12000.0
+2025-04-22,Headphones,north,6.0,2500.0
+2025-10-27,laptop,South,1.0,57750.0
+2025-04-06,Laptop,north,4.0,49500.0
+2025-10-19,Laptop,north,2.0,49500.0
+2025-10-17, Keyboard , East ,5.0,1500.0
+2025-05-03,headphones,WEST,3.0,2500.0
+2025-06-11,Monitor,north,8.0,12600.0
+2025-02-21,Keyboard,South,5.0,1500.0
+2025-02-05,Headphones, East ,5.0,2500.0
+2025-10-06, Monitor , East ,1.0,12600.0
+2025-02-23,Headphones, East ,2.0,2500.0
+2025-03-21,keyboard, East ,4.0,1500.0
+2025-11-21,phone,WEST,5.0,22000.0
+2025-11-21,laptop, East ,1.0,55000.0
+2025-03-08, Headphones , East ,3.0,2250.0
+2025-08-07, Keyboard ,north,2.0,1500.0
+2025-10-07,Phone, East ,3.0,19800.0
+2025-01-22,phone, East ,1.0,22000.0
+2025-05-08, Phone ,north,6.0,23100.0
+2025-11-14, Monitor ,South,4.0,12000.0
+2025-07-31,Phone,South,6.0,19800.0
+2025-05-17,Phone,north,7.0,22000.0
+2025-04-24,Monitor,WEST,6.0,12000.0
+2025-04-25,Phone,South,7.0,22000.0
+2025-02-05,headphones, East ,7.0,2625.0
+2025-01-15,Headphones, East ,3.0,N/A
+2025-01-20,Headphones,WEST,6.0,2500.0
+2025-11-07, Monitor ,north,7.0,12600.0
+2025-05-11,Phone,WEST,1.0,23100.0
+2025-04-11,keyboard,WEST,2.0,1500.0
+2025-06-10, Keyboard ,north,5.0,1575.0
+2025-07-29,headphones,WEST,5.0,2625.0
+2025-04-09,phone,WEST,3.0,23100.0
+2025-06-04,keyboard,north,5.0,1500.0
+2025-08-09, Phone , East ,8.0,19800.0
+2025-04-20, Monitor ,WEST,3.0,12000.0
+2025-09-21, Headphones , East ,2.0,2500.0
+2025-04-26,Headphones,South,1.0,2500.0
+2025-09-01, Phone ,north,8.0,19800.0
+2025-04-10, Keyboard ,WEST,8.0,1350.0
+2025-03-17, Phone ,north,2.0,19800.0
+2025-04-01, Phone ,WEST,1.0,23100.0
+2025-03-04,phone,South,8.0,23100.0
+2025-11-01,keyboard,WEST,7.0,1575.0
+2025-03-23, Monitor ,WEST,8.0,12000.0
+2025-11-23,phone,WEST,4.0,22000.0
+2025-02-09, Monitor , East ,4.0,12000.0
+2025-06-13, Headphones ,north,3.0,2500.0
+2025-07-16, Phone ,South,4.0,22000.0
+2025-07-28,monitor,WEST,7.0,12000.0
+2025-08-04,phone,north,7.0,19800.0
+2025-06-30,laptop,WEST,7.0,57750.0
+2025-11-05,Keyboard,WEST,4.0,1500.0
+2025-09-06,Monitor,WEST,6.0,10800.0
+2025-08-28,Phone,north,7.0,23100.0
+2025-01-14,Keyboard,WEST,3.0,1350.0
+2025-01-26,phone,WEST,6.0,22000.0
+2025-06-17,monitor,WEST,5.0,10800.0
+2025-02-11,headphones,north,1.0,2500.0
+2025-02-05, Phone ,north,1.0,22000.0
+2025-01-11, Phone ,South,4.0,22000.0
+2025-02-28, Monitor ,South,-2.0,12000.0
+2025-03-27, Headphones ,north,3.0,2500.0
+2025-10-24,Laptop, East ,7.0,49500.0
+2025-02-08, Phone ,South,2.0,22000.0
+2025-03-03, Keyboard ,north,6.0,1575.0
+2025-07-09,Monitor, East ,1.0,10800.0
+2025-02-24,monitor, East ,8.0,12000.0
+2025-04-01, Monitor , East ,8.0,10800.0
+2025-10-31,monitor, East ,4.0,12000.0
+2025-08-19,Headphones,WEST,7.0,2500.0
+2025-09-11,laptop,South,8.0,55000.0
+2025-05-13,headphones, East ,5.0,2625.0
+2025-09-22,Laptop,north,4.0,49500.0
+2025-10-12,Monitor,WEST,8.0,10800.0
+2025-02-17,laptop,South,7.0,55000.0
+2025-10-25,headphones,WEST,6.0,2250.0
+2025-06-19,keyboard,WEST,5.0,1500.0
+2025-04-29,Headphones,South,6.0,2500.0
+2025-04-05,Keyboard,South,8.0,1500.0
+2025-09-26, Keyboard , East ,2.0,1500.0
+2025-04-27,headphones,South,5.0,N/A
+2025-03-06,keyboard,north,1.0,1575.0
+2025-03-06, Headphones ,WEST,2.0,2500.0
+2025-05-26,keyboard,WEST,8.0,1500.0
+2025-01-27,phone,WEST,2.0,22000.0
+2025-09-09,Monitor,north,3.0,12000.0
+2025-06-05,Keyboard,South,2.0,N/A
+2025-11-07, Monitor ,South,7.0,10800.0
+2025-06-02, Monitor ,WEST,5.0,12600.0
+2025-01-31, Keyboard ,north,4.0,1500.0
+2025-02-11,Headphones,South,3.0,2625.0
+2025-03-22,Laptop,WEST,8.0,57750.0
+2025-05-30,Monitor,South,5.0,12000.0
+2025-02-06, Monitor ,South,5.0,12600.0
+2025-08-06,Phone,South,3.0,22000.0
+2025-02-06,Phone,South,5.0,23100.0
+2025-05-28,keyboard,north,8.0,1500.0
+2025-05-20, Monitor ,WEST,8.0,12000.0
+2025-01-21,keyboard, East ,5.0,1500.0
+2025-04-28, Laptop ,north,5.0,57750.0
+2025-03-31,laptop,WEST,5.0,55000.0
+2025-08-12, Keyboard ,WEST,2.0,1350.0
+2025-07-29,headphones, East ,2.0,2500.0
+2025-07-30, Headphones ,WEST,5.0,2250.0
+2025-01-19,keyboard,north,6.0,1500.0
+2025-03-01,headphones,north,8.0,2250.0
+2025-04-07, Laptop , East ,8.0,49500.0
+2025-04-15,laptop,South,5.0,49500.0
+2025-03-04,Monitor,South,3.0,12000.0
+2025-01-08, Keyboard ,WEST,2.0,1500.0
+2025-08-25,Laptop,South,8.0,55000.0
+2025-05-20,keyboard,WEST,8.0,1500.0
+2025-10-10,Monitor,WEST,4.0,12600.0
+2025-03-11,Keyboard, East ,7.0,1500.0
+2025-05-17,Keyboard, East ,5.0,1575.0
+2025-09-08,Keyboard,WEST,8.0,1500.0
+2025-10-10, Headphones ,WEST,8.0,2500.0
+2025-05-03, Phone ,WEST,4.0,19800.0
+2025-06-12, Laptop ,WEST,7.0,49500.0
+2025-09-11,Phone,South,6.0,22000.0
+2025-02-21, Monitor ,WEST,1.0,12000.0
+2025-03-21,Monitor,WEST,5.0,12000.0
+2025-07-23, Keyboard ,north,6.0,1575.0
+2025-06-12, Monitor ,WEST,1.0,12600.0
+2025-05-01, Laptop , East ,4.0,55000.0
+2025-02-20, Monitor ,north,-2.0,12000.0
+2025-01-15,Headphones, East ,1.0,2500.0
+2025-07-11,headphones,South,4.0,2625.0
+2025-10-17, Monitor ,South,3.0,12000.0
+2025-11-09,laptop,South,8.0,57750.0
+2025-04-29,phone, East ,8.0,22000.0
+2025-08-27,laptop,South,2.0,49500.0
+2025-10-28,headphones,WEST,5.0,2250.0
+2025-04-12,headphones,WEST,2.0,2500.0
+2025-10-20,monitor, East ,5.0,12000.0
+2025-05-21,Monitor,north,8.0,12000.0
+2025-11-07,phone,South,4.0,23100.0
+2025-03-12, Headphones ,north,1.0,2500.0
+2025-01-18, Monitor , East ,3.0,12000.0
+2025-06-17, Headphones ,WEST,3.0,2500.0
+2025-10-04,phone, East ,3.0,22000.0
+2025-06-01, Monitor , East ,2.0,10800.0
+2025-03-14,Laptop,WEST,6.0,55000.0
+2025-01-08,monitor,north,8.0,12000.0
+2025-10-27,headphones, East ,2.0,2500.0
+2025-01-13, Monitor , East ,4.0,12000.0
+2025-06-04, Monitor ,WEST,2.0,12000.0
+2025-01-20,laptop,WEST,2.0,55000.0
+2025-10-03,Phone,WEST,8.0,22000.0
+2025-08-03, Keyboard ,South,7.0,1500.0
+2025-11-12,monitor, East ,1.0,12000.0
+2025-08-16,phone,South,6.0,22000.0
+2025-10-06, Headphones , East ,1.0,2250.0
+2025-04-08,Headphones,WEST,2.0,2500.0
+2025-01-11,Keyboard, East ,4.0,N/A
+2025-04-16,Keyboard,South,4.0,1500.0
+2025-03-17, Headphones ,north,5.0,2500.0
+2025-10-04,phone,South,2.0,22000.0
+2025-01-08,phone,South,6.0,22000.0
+2025-05-16,Phone,South,7.0,23100.0
+2025-02-02,laptop,WEST,6.0,57750.0
+2025-02-25,keyboard,South,1.0,1575.0
+2025-08-23, Headphones ,north,1.0,2250.0
+2025-08-07, Monitor ,north,8.0,10800.0
+2025-02-11,laptop,South,2.0,55000.0
+2025-11-16, Headphones , East ,7.0,2625.0
+2025-05-31,keyboard,WEST,2.0,1500.0
+2025-04-21,keyboard,WEST,,1350.0
+2025-08-21,headphones,WEST,2.0,2500.0
+2025-06-10, Monitor , East ,,12000.0
+2025-02-04,Monitor,north,2.0,10800.0
+2025-07-10,Laptop,north,6.0,55000.0
+2025-07-01, Monitor ,WEST,1.0,12000.0
+2025-06-09,keyboard,north,4.0,1500.0
+2025-04-25,Monitor, East ,6.0,12000.0
+2025-10-21,Headphones,WEST,1.0,2625.0
+2025-01-15,Headphones, East ,5.0,2500.0
+2025-01-04,Headphones,South,7.0,2500.0
+2025-11-21,Phone,north,4.0,19800.0
+2025-08-21,monitor,South,6.0,12000.0
+2025-10-18, Headphones ,north,1.0,2500.0
+2025-11-13,Phone,north,5.0,19800.0
+2025-09-06, Monitor ,WEST,7.0,12000.0
+2025-09-20,Phone, East ,7.0,22000.0
+2025-10-31,headphones, East ,1.0,2500.0
+2025-11-03,Monitor,north,4.0,12000.0
+2025-03-12,phone, East ,6.0,22000.0
+2025-09-12, Laptop ,WEST,3.0,55000.0
+2025-09-30, Monitor ,South,6.0,12000.0
+2025-01-22,monitor,north,8.0,12000.0
+2025-10-22,headphones,WEST,7.0,2500.0
+2025-07-27,Laptop, East ,3.0,57750.0
+2025-07-05,Monitor,WEST,2.0,12000.0
+2025-10-29,monitor,north,7.0,12000.0
+2025-04-24,headphones,South,2.0,2625.0
+2025-09-29, Laptop ,South,6.0,55000.0
+2025-05-01,Phone,South,5.0,22000.0
+2025-11-05,Phone,north,3.0,19800.0
+2025-10-16, Monitor ,WEST,6.0,12000.0
+2025-08-14,Phone,WEST,8.0,22000.0
+2025-10-30,Headphones, East ,2.0,2500.0
+2025-08-20,Monitor,north,6.0,12000.0
+2025-11-27,Laptop,WEST,8.0,57750.0
+2025-01-22,keyboard,South,6.0,1575.0
+2025-09-14,Monitor,north,8.0,12000.0
+2025-02-13, Headphones ,South,1.0,2500.0
+2025-08-13, Monitor ,South,6.0,12000.0
+2025-07-18,headphones, East ,1.0,2500.0
+2025-06-18,Laptop,WEST,5.0,55000.0
+2025-03-18,keyboard,north,3.0,1500.0
+2025-07-20,Headphones,north,5.0,2625.0
+2025-11-26,monitor,South,2.0,10800.0
+2025-07-05,Keyboard, East ,5.0,1500.0
+2025-06-24,phone,South,4.0,22000.0
+2025-02-09,phone,north,1.0,22000.0
+2025-03-09, Keyboard ,WEST,3.0,1500.0
+2025-11-16,Phone,WEST,1.0,19800.0
+2025-05-02,headphones, East ,8.0,2500.0
+2025-05-03,keyboard,WEST,4.0,1500.0
+2025-08-14,keyboard, East ,7.0,1575.0
+2025-08-03,Keyboard,South,3.0,1500.0
+2025-11-25,laptop, East ,2.0,57750.0
+2025-05-26,Laptop,South,5.0,49500.0
+2025-03-17,keyboard,north,4.0,1350.0
+2025-01-14,headphones,north,7.0,2625.0
+2025-05-01,headphones,north,6.0,2500.0
+2025-06-13,Laptop, East ,3.0,55000.0
+2025-05-27,laptop,South,,49500.0
+2025-01-03,Keyboard,north,5.0,1500.0
+2025-10-08, Phone ,WEST,2.0,22000.0
+2025-06-04,Phone,north,4.0,19800.0
+2025-08-23,Keyboard,north,8.0,1575.0
+2025-01-09, Keyboard ,South,3.0,1500.0
+2025-01-01, Monitor , East ,4.0,12600.0
+2025-04-06, Monitor ,north,6.0,12000.0
+2025-10-06, Keyboard ,north,7.0,1350.0
+2025-11-22,laptop, East ,5.0,55000.0
+2025-02-04,headphones,South,2.0,2625.0
+2025-03-10,Headphones, East ,6.0,2500.0
+2025-09-03, Monitor ,South,3.0,12000.0
+2025-01-19,monitor,South,1.0,12000.0
+2025-06-11,laptop,WEST,,55000.0
+2025-04-08,laptop, East ,1.0,55000.0
+2025-03-05,headphones,WEST,,2250.0
+2025-06-23,Monitor,WEST,8.0,12000.0
+2025-05-17,Keyboard,WEST,2.0,1350.0
+2025-04-03, Keyboard , East ,6.0,1500.0
+2025-06-17, Laptop , East ,5.0,49500.0
+2025-08-07,Keyboard,WEST,6.0,1350.0
+2025-06-30, Laptop ,WEST,5.0,55000.0
+2025-11-23,laptop, East ,3.0,55000.0
+2025-11-08, Phone ,WEST,1.0,22000.0
+2025-05-01, Laptop , East ,6.0,49500.0
+2025-01-17, Keyboard ,South,8.0,1500.0
+2025-08-16,Headphones,South,6.0,2250.0
+2025-05-23,Headphones,north,1.0,2500.0
+2025-09-23,monitor,north,5.0,12000.0
+2025-04-20, Monitor , East ,8.0,12000.0
+2025-03-11,Laptop,WEST,3.0,49500.0
+2025-06-13, Laptop , East ,2.0,57750.0
+2025-05-29,keyboard,South,3.0,1500.0
+2025-04-25,Keyboard,South,3.0,1500.0
+2025-01-14,monitor, East ,8.0,12600.0
+2025-11-10,Phone,north,5.0,19800.0
+2025-09-27,monitor,WEST,2.0,12000.0
+2025-11-25,Headphones,WEST,8.0,2625.0
+2025-03-07, Headphones ,South,3.0,2250.0
+2025-01-29,Keyboard,South,5.0,1500.0
+2025-06-15, Phone ,South,6.0,23100.0
+2025-02-10,headphones,South,5.0,2500.0
+2025-11-11, Headphones ,north,3.0,2625.0
+2025-03-20,Keyboard, East ,1.0,1500.0
+2025-01-24, Laptop , East ,4.0,57750.0
+2025-11-13, Monitor ,north,8.0,12600.0
+2025-11-25,headphones,WEST,4.0,2250.0
+2025-08-21,Headphones,north,3.0,2250.0
+2025-09-05,monitor,South,6.0,12600.0
+2025-06-10, Phone , East ,6.0,19800.0
+2025-07-09, Phone ,north,6.0,22000.0
+2025-03-04,monitor,WEST,4.0,12000.0
+2025-01-26,laptop,WEST,7.0,55000.0
+2025-06-17, Phone , East ,4.0,22000.0
+2025-09-21,monitor,WEST,5.0,10800.0
+2025-02-16,laptop,WEST,4.0,55000.0
+2025-06-30,Keyboard,north,5.0,1350.0
+2025-08-29,keyboard,north,2.0,1350.0
+2025-05-16, Phone , East ,7.0,22000.0
+2025-07-25,Laptop,South,-2.0,57750.0
+2025-02-07,headphones,WEST,5.0,2625.0
+2025-03-02,Keyboard,north,7.0,1500.0
+2025-10-13,headphones,South,4.0,2625.0
+2025-07-25, Keyboard ,north,1.0,1500.0
+2025-06-20,phone,WEST,3.0,23100.0
+2025-03-13,keyboard, East ,3.0,1350.0
+2025-06-03, Keyboard , East ,8.0,1575.0
+2025-09-01,Headphones, East ,6.0,2500.0
+2025-10-26,monitor,north,8.0,12000.0
+2025-10-23,Keyboard,north,8.0,1500.0
+2025-11-19, Keyboard ,WEST,3.0,1500.0
+2025-10-21, Laptop ,north,4.0,55000.0
+2025-06-10,monitor,South,7.0,12000.0
+2025-09-14, Monitor ,WEST,1.0,12000.0
+2025-04-17, Keyboard , East ,8.0,1575.0
+2025-06-10,Monitor,WEST,6.0,12600.0
+2025-11-26, Headphones , East ,8.0,2500.0
+2025-05-23, Phone , East ,4.0,22000.0
+2025-04-17, Headphones ,WEST,6.0,2250.0
+2025-10-14, Headphones , East ,5.0,2500.0
+2025-10-06,keyboard,WEST,6.0,1500.0
+2025-01-22,headphones,north,6.0,2250.0
+2025-09-03,Headphones,South,5.0,2625.0
+2025-03-12,Headphones,South,4.0,2500.0
+2025-04-26, Keyboard ,South,1.0,1500.0
+2025-06-19, Monitor ,WEST,2.0,12000.0
+2025-10-09,Laptop,WEST,8.0,49500.0
+2025-05-28,phone, East ,1.0,22000.0
+2025-04-29, Keyboard ,north,3.0,1350.0
+2025-01-19,phone,WEST,3.0,22000.0
+2025-01-05,laptop,north,6.0,55000.0
+2025-11-25, Monitor ,WEST,3.0,12600.0
+2025-05-20,Monitor,north,6.0,12000.0
+2025-05-12, Monitor ,South,1.0,12000.0
+2025-10-18, Headphones ,South,3.0,2625.0
+2025-08-07, Monitor , East ,2.0,10800.0
+2025-04-05,Laptop,WEST,6.0,55000.0
+2025-05-14,laptop,South,8.0,55000.0
+2025-06-04, Headphones ,north,5.0,2500.0
+2025-02-01, Phone ,north,8.0,22000.0
+2025-07-27, Phone , East ,2.0,22000.0
+2025-11-11,Headphones,South,3.0,2250.0
+2025-08-21, Phone , East ,7.0,23100.0
+2025-10-03, Monitor ,South,4.0,12600.0
+2025-09-27,laptop, East ,2.0,57750.0
+2025-02-01, Laptop ,South,3.0,55000.0
+2025-09-24,headphones,north,4.0,2625.0
+2025-02-16, Monitor ,WEST,1.0,10800.0
+2025-09-20,phone,WEST,1.0,23100.0
+2025-06-07, Monitor ,north,7.0,12000.0
+2025-04-22, Laptop ,north,1.0,49500.0
+2025-02-02, Headphones ,north,2.0,2250.0
+2025-05-27,laptop,South,3.0,49500.0
+2025-07-15,headphones,WEST,7.0,2500.0
+2025-03-10, Keyboard , East ,2.0,1500.0
+2025-07-21, Keyboard ,South,4.0,1500.0
+2025-06-02,laptop,WEST,7.0,55000.0
+2025-08-24,phone,South,5.0,22000.0
+2025-01-17, Laptop ,WEST,1.0,55000.0
+2025-02-04,Phone,north,8.0,23100.0
+2025-05-06, Laptop ,north,7.0,49500.0
+2025-10-04,Phone,north,3.0,23100.0
+2025-04-30, Headphones , East ,6.0,2500.0
+2025-03-15, Headphones ,South,7.0,2500.0
+2025-02-01, Headphones ,South,7.0,2625.0
+2025-01-25,monitor,WEST,6.0,10800.0
+2025-03-18,monitor,WEST,3.0,12600.0
+2025-05-04,Monitor, East ,3.0,10800.0
+2025-03-18,monitor,WEST,3.0,12600.0
+2025-03-06,keyboard,north,1.0,1575.0
+2025-06-30,Keyboard,north,5.0,1350.0
+2025-09-01,Headphones, East ,6.0,2500.0
+2025-10-17, Monitor ,South,3.0,12000.0
+2025-11-19, Keyboard ,WEST,3.0,1500.0
+2025-04-08,Headphones,WEST,2.0,2500.0
+2025-06-17, Laptop , East ,5.0,49500.0
+2025-07-11,monitor,WEST,,12000.0
+2025-01-19,monitor,South,1.0,12000.0
