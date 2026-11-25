@@ -35,6 +35,6 @@ pytest
 - `test_report.py` – unit tests
 
 ## Screenshot
-![alt text](<Screenshot from 2026-11-25 12-42-05.png>) ![alt text](<Screenshot from 2026-11-25 12-41-41.png>) ![alt text](<Screenshot from 2026-11-25 12-41-27.png>) ![alt text](<Screenshot from 2026-11-25 12-41-16.png>)
+![alt text](<Screenshot from 2026-11-25 12-41-16.png>)![alt text](<Screenshot from 2026-11-25 12-41-27.png>) ![alt text](<Screenshot from 2026-11-25 12-41-41.png>) ![alt text](<Screenshot from 2026-11-25 12-42-05.png>) 
 ## Possible next steps
 Column-mapping screen for files with different headers, currency selection, PDF export, scheduled email delivery.
